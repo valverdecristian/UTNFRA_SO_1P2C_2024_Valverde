@@ -33,7 +33,7 @@ sudo chmod 775 /Examenes-UTN/profesores
 #crear archivos validar.txt con whoami en cada carpeta
 echo "validando con whoami para cada usuario..."
 
-sudo -u p1c2_2024_A1 whoami | sudo tee /Examenes-UTN/alumno1/validar.txt > /dev/null
-sudo -u p1c2_2024_A2 whoami | sudo tee /Examenes-UTN/alumno2/validar.txt > /dev/null
-sudo -u p1c2_2024_A3 whoami | sudo tee /Examenes-UTN/alumno3/validar.txt > /dev/null
+sudo -u p1c2_2024_A1 whoami | sudo tee /Examenes-UTN/alumno_1/validar.txt > /dev/null
+sudo -u p1c2_2024_A2 whoami | sudo tee /Examenes-UTN/alumno_2/validar.txt > /dev/null
+sudo -u p1c2_2024_A3 whoami | sudo tee /Examenes-UTN/alumno_3/validar.txt > /dev/null
 sudo -u p1c2_2024_P1 whoami | sudo tee /Examenes-UTN/profesores/validar.txt > /dev/null
