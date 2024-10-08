@@ -769,3 +769,124 @@ cat RTA_ARCHIVOS_Examen_20241002/Filtro_Avanzado.txt
 ls -l
 vim README.md
 history -a
+cp ~/.bash_history ~/repogit/UTNFRA_SO_1P2C_2024_Valverde/
+cd ~/repogit/UTNFRA_SO_1P2C_2024_Valverde
+git status
+git add .
+git commit -m "Add: Punto_D.sh, Punto_E.sh, Punto_F.sh y README.md"
+git push origin main
+ls -l
+cd Examenes-UTN
+ls -l
+tree
+cd
+sudo su
+cd repogit
+cd UTNFRA_SO_1P2C_2024_Valverde/
+ls -l
+cd RTA_SCRIPT_Examen_20241002/
+vim Punto_B.sh
+bash Punto_B.sh
+pwd
+cd
+pwd
+ls -l
+cd Examenes-UTN
+ls -l
+cd
+rm -rf Examenes-UTN
+rm -rf Examenes-UTN2
+ls -l
+cd repogit/
+ls -l
+cd UTNFRA_SO_1P2C_2024_Valverde/
+cd RTA_SCRIPT_Examen_20241002/
+vim Punto_A.sh
+bash Punto_A.sh
+cd
+ls -l
+cd repogit/UTNFRA_SO_1P2C_2024_Valverde/RTA_SCRIPT_Examen_20241002/
+bash Punto_B.sh
+vim Punto_B.sh
+bash Punto_B.sh
+df -h
+cd
+sudo mkdir -p /Examenes-UTNdonde/alumno_1/parcial_1
+ls -l
+sudo mkdir -p /Examenes-UTNdonde/alumno_1/parcial_1
+mkdir -p /Examenes-UTNdonde/alumno_1/parcial_1
+ls -l
+ls -l /Examenes-UTNdonde/alumno_1
+cd repogit/UTNFRA_SO_1P2C_2024_Valverde/RTA_SCRIPT_Examen_20241002/
+vim Punto_A.sh
+bash Punto_A.sh
+vim Punto_A.sh
+bash Punto_A.sh
+ls -l /Examenes-UTN
+tree
+cd
+sudo rm -r /Examenes-UTN/alumno1 /Examenes-UTN/alumno2 /Examenes-UTN/alumno3
+cd repogit/UTNFRA_SO_1P2C_2024_Valverde/RTA_SCRIPT_Examen_20241002/
+vim Punto_B.sh
+bash Punto_B.sh
+vim Punto_B.sh
+bash Punto_B.sh
+sudo fdisk /dev/sdd
+cd
+sudo fdisk -ls
+cd repogit/UTNFRA_SO_1P2C_2024_Valverde/RTA_SCRIPT_Examen_20241002/
+bash Punto_B.sh
+CD
+cd
+ls -l
+cd repogit/UTNFRA_SO_1P2C_2024_Valverde/
+git status
+cd RTA_SCRIPT_Examen_20241002/
+vim Punto_B.sh 
+bash Punto_B.sh
+sudo umount /Examenes-UTN/alumno1/parcial1
+sudo umount /Examenes-UTN/alumno1/parcial2
+sudo umount /Examenes-UTN/alumno1/parcial3
+sudo umount /Examenes-UTN/alumno2/parcial1
+sudo umount /Examenes-UTN/alumno2/parcial2
+sudo umount /Examenes-UTN/alumno2/parcial3
+sudo umount /Examenes-UTN/alumno3/parcial1
+sudo umount /Examenes-UTN/alumno3/parcial2
+sudo umount /Examenes-UTN/alumno3/parcial3
+sudo umount /Examenes-UTN/profesores
+df -h
+sudo umount /Examenes-UTN/alumno_1/parcial_1
+sudo umount /Examenes-UTN/alumno_1/parcial_2
+sudo umount /Examenes-UTN/alumno_1/parcial_3
+sudo umount /Examenes-UTN/alumno_2/parcial_1
+sudo umount /Examenes-UTN/alumno_2/parcial_2
+sudo umount /Examenes-UTN/alumno_2/parcial_3
+sudo umount /Examenes-UTN/alumno_3/parcial_1
+sudo umount /Examenes-UTN/alumno_3/parcial_2
+sudo umount /Examenes-UTN/alumno_3/parcial_3
+df -h
+bash Punto_B.sh
+vim Punto_B.sh 
+cd repogit/UTNFRA_SO_1P2C_2024_Valverde/RTA_SCRIPT_Examen_20241002/
+vim Punto_B.sh
+cd ..
+git status
+git add .
+git commit -m "modificacion: Punto_A.sh y Punto_B.sh"
+git push origin main
+cd
+tree Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+cd repogit/UTNFRA_SO_1P2C_2024_Valverde/RTA_ARCHIVOS_Examen_20241002/
+ls -l
+rm test.txt
+ls -l
+cd ..
+git status
+git add RTA_ARCHIVOS_Examen_20241002/test.txt
+git commit -m "eliminando archivo de prueba"
+git push
+history -a
+cd
+cd repogit/UTNFRA_SO_1P2C_2024_Valverde
+history
+history -a
